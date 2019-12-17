@@ -43,4 +43,3 @@ while cycle <= 2:
                 idxG += 1
                 f(i, j, idxG)
     print(group)
-    
